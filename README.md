@@ -1,0 +1,1 @@
+A side project for a fictional burger restaurant I am working on. As I continue learning, I hope to use what I learn on this personal project and many more. Logo was made using Adobe Illustrator's generative vector feature.
